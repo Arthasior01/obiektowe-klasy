@@ -1,0 +1,8 @@
+﻿1>------ Kompilacja rozpoczęta: Projekt: program, Konfiguracja: Debug Any CPU ------
+1>Program.cs(51,16,51,31): warning CS0649: Do pola „Car.srednieSpalanie” nigdy nie jest przypisywana wartość i będzie ono mieć zawsze wartość domyślną 0
+1>Program.cs(48,20,48,25): warning CS0169: Pole „Car.model” nie jest nigdy używane
+1>Program.cs(49,17,49,27): warning CS0169: Pole „Car.iloscDrzwi” nie jest nigdy używane
+1>Program.cs(50,17,50,33): warning CS0169: Pole „Car.pojemnoscSilnika” nie jest nigdy używane
+1>program -> D:\C#\MKPO\program\program\bin\Debug\netcoreapp2.0\program.dll
+1>Kompilowanie projektu „program.csproj” wykonane.
+========== Kompilacja: 1 zakończono powodzeniem, 0 zakończono niepowodzeniem, 0 zaktualizowano, 0 pominięto ==========
