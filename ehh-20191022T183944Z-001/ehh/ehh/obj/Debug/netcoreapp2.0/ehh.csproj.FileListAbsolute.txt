@@ -1,0 +1,10 @@
+D:\isi2gr3\MK\obiektowe\wejsciowka\ehh\ehh\obj\Debug\netcoreapp2.0\ehh.csproj.CoreCompileInputs.cache
+D:\isi2gr3\MK\obiektowe\wejsciowka\ehh\ehh\obj\Debug\netcoreapp2.0\ehh.AssemblyInfoInputs.cache
+D:\isi2gr3\MK\obiektowe\wejsciowka\ehh\ehh\obj\Debug\netcoreapp2.0\ehh.AssemblyInfo.cs
+D:\isi2gr3\MK\obiektowe\wejsciowka\ehh\ehh\bin\Debug\netcoreapp2.0\ehh.deps.json
+D:\isi2gr3\MK\obiektowe\wejsciowka\ehh\ehh\bin\Debug\netcoreapp2.0\ehh.runtimeconfig.json
+D:\isi2gr3\MK\obiektowe\wejsciowka\ehh\ehh\bin\Debug\netcoreapp2.0\ehh.runtimeconfig.dev.json
+D:\isi2gr3\MK\obiektowe\wejsciowka\ehh\ehh\bin\Debug\netcoreapp2.0\ehh.dll
+D:\isi2gr3\MK\obiektowe\wejsciowka\ehh\ehh\bin\Debug\netcoreapp2.0\ehh.pdb
+D:\isi2gr3\MK\obiektowe\wejsciowka\ehh\ehh\obj\Debug\netcoreapp2.0\ehh.dll
+D:\isi2gr3\MK\obiektowe\wejsciowka\ehh\ehh\obj\Debug\netcoreapp2.0\ehh.pdb
